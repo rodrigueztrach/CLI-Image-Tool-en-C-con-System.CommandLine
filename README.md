@@ -1,4 +1,4 @@
-Mostrar más21:08Claude ha respondido: Reemplaza 2024 con el año actual y ImageCLI con tu nombre o el nombre de tu empresa.# ImageCLI
+# ImageCLI
 
 Command-line tool for optimizing and converting images,
 built with C# and System.CommandLine.
