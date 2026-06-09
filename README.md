@@ -1,4 +1,4 @@
-# ImageCLI
+Mostrar más21:08Claude ha respondido: Reemplaza 2024 con el año actual y ImageCLI con tu nombre o el nombre de tu empresa.# ImageCLI
 
 Command-line tool for optimizing and converting images,
 built with C# and System.CommandLine.
@@ -124,8 +124,3 @@ From that point you can use it from any folder:
 
   System.CommandLine    2.0.0-beta4    CLI argument parsing
   SixLabors.ImageSharp  3.1.4          Image processing
-
-
-## License
-
-MIT - free for personal and commercial use.
