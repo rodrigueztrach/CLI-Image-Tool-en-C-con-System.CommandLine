@@ -1,5 +1,9 @@
 using System.CommandLine;
 using ImageCLI.Services;
+using System.IO;
+using System;
+
+
 
 namespace ImageCLI.Commands;
 
