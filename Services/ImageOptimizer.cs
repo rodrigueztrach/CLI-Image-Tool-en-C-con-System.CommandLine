@@ -2,6 +2,8 @@ using SixLabors.ImageSharp;
 using SixLabors.ImageSharp.Formats.Jpeg;
 using SixLabors.ImageSharp.Formats.Png;
 using SixLabors.ImageSharp.Formats.Webp;
+using Task = System.Threading.Tasks.Task;
+using FileInfo = System.IO.FileInfo;
 
 namespace ImageCLI.Services;
 
