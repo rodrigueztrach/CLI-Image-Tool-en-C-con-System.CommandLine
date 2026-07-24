@@ -1,3 +1,6 @@
+using System;
+using System.IO;
+using System.Threading.Tasks;
 using SixLabors.ImageSharp;
 
 namespace ImageCLI.Services;
@@ -18,4 +21,9 @@ public static class ImageConverter
             _ => throw new NotSupportedException($"Format '{format}' is not supported.")
         });
     }
+
+internal static async Task ConvertAsync(object input, FileInfo output, object format)
+{
+    throw new NotImplementedException();
+}
 }
