@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("imgcli")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7e539289857c93c3b02753f9bb06bf76d02458bd")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+866834d6d6f58e124efd5a84de2ad8f27543064a")]
 [assembly: System.Reflection.AssemblyProductAttribute("imgcli")]
 [assembly: System.Reflection.AssemblyTitleAttribute("imgcli")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
