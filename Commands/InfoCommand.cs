@@ -1,6 +1,7 @@
 using System.CommandLine;
 using SixLabors.ImageSharp;
 using System.IO;
+using System;
 
 namespace ImageCLI.Commands;
 
